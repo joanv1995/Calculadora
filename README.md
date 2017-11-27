@@ -1,1 +1,3 @@
 # Calculadora
+Dins de la carpeta "java" del zip es troba tot el codi realitzat a totes les clases.
+L'archiu APK l'he deixat fora del zip y es el que he generat a traves de la opció  Build > Generated Signed APK...
